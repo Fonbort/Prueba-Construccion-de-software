@@ -1,0 +1,4 @@
+Nombre: Josue Cevallos
+Ing: Luis Llerena
+Materia: Contruccion de software
+Nota: para funcionar los cruds se debe poner la carpeta en equipo/disco local c/xampp/htdocs, una vez pegado ahi se debe ingresar al link http://localhost/prueba/index.php# para que este se pueda visualisar.
